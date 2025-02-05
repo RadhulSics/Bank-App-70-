@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/bank_app/static/css/main.1659a07e.css",
+    "main.js": "/bank_app/static/js/main.ab300715.js",
+    "static/js/453.4778615b.chunk.js": "/bank_app/static/js/453.4778615b.chunk.js",
+    "static/media/frame 2.png": "/bank_app/static/media/frame 2.044b1a2a316f2927cad1.png",
+    "static/media/landingsection1.png": "/bank_app/static/media/landingsection1.352baab79cadff01c0ff.png",
+    "static/media/managerlogin.png": "/bank_app/static/media/managerlogin.0bc0381452aea65f45bc.png",
+    "static/media/frgtpswdsent.png": "/bank_app/static/media/frgtpswdsent.8641f69d5084248ad48c.png",
+    "static/media/Component 1 (1).png": "/bank_app/static/media/Component 1 (1).58c3787d23eb6e336d06.png",
+    "static/media/userregister.png": "/bank_app/static/media/userregister.7cdf7900d684a947468a.png",
+    "static/media/frame 3 (1).png": "/bank_app/static/media/frame 3 (1).8dabc06fc1893658cca3.png",
+    "static/media/userlogin.png": "/bank_app/static/media/userlogin.d128a4dabe8bc0839377.png",
+    "static/media/userhome.png": "/bank_app/static/media/userhome.0b8e71da681674401463.png",
+    "static/media/image (2).png": "/bank_app/static/media/image (2).ec3b37d77ec6d155c671.png",
+    "static/media/changfrgtpswd.png": "/bank_app/static/media/changfrgtpswd.c74a438bcd043a7affb4.png",
+    "static/media/image 8.png": "/bank_app/static/media/image 8.e34198967f56f5a7a4d0.png",
+    "static/media/image 11 (1).png": "/bank_app/static/media/image 11 (1).ff497aba481fca677aab.png",
+    "static/media/creditcard.png": "/bank_app/static/media/creditcard.63ad2ba5e6d807820ede.png",
+    "static/media/image 56.png": "/bank_app/static/media/image 56.37e2205032871010318d.png",
+    "static/media/image 9.png": "/bank_app/static/media/image 9.bf20796e2c27eba0548d.png",
+    "static/media/Rectangle 158.png": "/bank_app/static/media/Rectangle 158.c997e60fc67134bcbc08.png",
+    "static/media/image 10 (1).png": "/bank_app/static/media/image 10 (1).c3e87dd29b8e470148fd.png",
+    "static/media/custloan.png": "/bank_app/static/media/custloan.4ad862ff644a8d1a9e43.png",
+    "static/media/Flow diagram.png": "/bank_app/static/media/Flow diagram.359b2740cbf31b5af725.png",
+    "static/media/logo.svg": "/bank_app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/bank_app/index.html",
+    "main.1659a07e.css.map": "/bank_app/static/css/main.1659a07e.css.map",
+    "main.ab300715.js.map": "/bank_app/static/js/main.ab300715.js.map",
+    "453.4778615b.chunk.js.map": "/bank_app/static/js/453.4778615b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1659a07e.css",
+    "static/js/main.ab300715.js"
+  ]
+}
